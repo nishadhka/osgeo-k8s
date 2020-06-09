@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  helm-chart:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-06-09T17:56:03.660392375+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 36ecb0e5bef458e0edcc3199792ecd2d898f1d8102faada991370ae9779d2a86
+    name: helm-chart
+    urls:
+    - https://nishadhka.github.io/osgeo-k8s/helm-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-06-09T17:56:03.659948072+05:30"
